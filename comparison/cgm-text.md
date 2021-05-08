@@ -1,12 +1,15 @@
 ---
-title: CGM Comparison
+title: CGM Comparison (text)
 description: 
 published: true
-date: 2021-05-08T23:06:41.908Z
+date: 2021-05-08T23:22:13.398Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-08T23:06:41.907Z
 ---
+
+> You can also view a graphical version of this table [here](/comparison/cgm-image).
+{.is-info}
 
 | **CGM**                              | **Wear Time**                        | **Calibrations Required** | **Warmup Period** | **Transmitter** | **Alerts and Trends**                    | **Data Sharing**                     | **Loopable**                                                    | **Receiver**                                             | **Approved Insertion Site**          |
 |:------------------------------------:|:------------------------------------:|:-------------------------:|:-----------------:|:---------------:|:----------------------------------------:|:------------------------------------:|:---------------------------------------------------------------:|:--------------------------------------------------------:|:------------------------------------:|
