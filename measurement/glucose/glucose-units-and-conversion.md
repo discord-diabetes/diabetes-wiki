@@ -2,7 +2,7 @@
 title: Glucose Measurement and Units
 description: 
 published: true
-date: 2021-05-08T21:30:09.996Z
+date: 2021-05-09T00:01:05.486Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-08T21:30:09.996Z
@@ -152,7 +152,8 @@ Please note that the information on this chart may be out of date or inaccurate 
 
 # Exact Conversions
 > This is cool, extra info if you want to know the intricate details of the glucose unit conversion factor. **_This will not affect your diabetes management at all, so it is entirely educational._**
-{.is-info}
+{.is-warning}
+
 
 The conversion factor of $18$ given in the [conversions section above](#conversions) is not as precise as it can be.
 This preciseness was traded for ease of understanding as it's not necessary for the average person to use the exact conversion factor in everyday glucose conversions.
