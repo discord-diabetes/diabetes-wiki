@@ -2,7 +2,7 @@
 title: Traveling with Diabetes
 description: Some helpful tips for traveling with diabetes. Some of these tips came from Wilfred himself!
 published: true
-date: 2021-06-11T21:56:34.254Z
+date: 2021-06-11T22:00:30.854Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-11T17:08:06.305Z
@@ -55,7 +55,7 @@ Some flights can take nearly all day to complete, especially on the Airbus A380 
 `1. Airline food is not usually delicious`
 
 ### For Insulin Pump Users
-If you are using an insulin pump, please be aware that the pressure changes on the plane while ascending and descending from cruising altitude can create bubbles and/or cause more or less insulin than normal to be delivered during ascent and descent. If you use a pump with an insulin cartridge, the best thing to do while ascending is to suspend the pump until you reach the cruising altitude and the captain turns off the fasten seatbelts light. At this point, you can remove the cartridge to check for air bubbles, prime them out, and resume insulin delivery. When descending, you should disconnect the tubing and suspend. The descent can cause insulin in the pump and/or tubing to deliver into your body spontaneously, which leads to hypos when picking up your baggage (not a fun experience, especially if you reach your destination and none of the cinnabons are open.)
+If you are using an insulin pump, please be aware that the pressure changes on the plane while ascending to--and descending fro--cruising altitude can create bubbles and/or cause more or less insulin than normal to be delivered during ascent and descent. If you use a pump with an insulin cartridge, the best thing to do while ascending is to suspend the pump until you reach the cruising altitude and the captain turns off the fasten seatbelts light. At this point, you can remove the cartridge to check for air bubbles, prime them out, and resume insulin delivery. When descending, you should disconnect the tubing and suspend. The descent can cause insulin in the pump and/or tubing to deliver into your body spontaneously, which leads to hypos when picking up your baggage (not a fun experience, especially if you reach your destination and none of the cinnabons are open.)
 
 
 
