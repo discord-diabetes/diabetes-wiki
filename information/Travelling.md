@@ -2,13 +2,13 @@
 title: Travel Tips
 description: 
 published: false
-date: 2021-06-11T07:26:33.798Z
+date: 2021-06-11T07:27:28.325Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-11T07:07:56.985Z
 ---
 
-# Travelling with Diabetes
+# Traveling with Diabetes
 
 
 <!--
@@ -34,6 +34,6 @@ All aboard! When traveling, make sure to pack your medications and supplies _in 
 
 ![5cvv0y.jpg](/5cvv0y.jpg)
 
-### When Boarding
+## When Boarding
 
 Make sure that when you board the plane, if they tell you you must check your bag due to lack of space in the overhad bins... take your ziplock bag full of supplies out and keep it with you. You don't want it going into the belly of the plane. Keep it with you at all times.
