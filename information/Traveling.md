@@ -2,7 +2,7 @@
 title: Travel Tips
 description: How to Travel with Diabetes
 published: false
-date: 2021-06-11T07:55:07.490Z
+date: 2021-06-11T08:04:11.536Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-11T07:07:56.985Z
@@ -51,6 +51,10 @@ It may be tempting to run your insulin pump through the x-ray machine to save ti
 
 ### The Explosives Swab
 TSA is going to instruct you to go into the center of the screening area after your patdown. A TSA Agent will take a small cloth and wipe down your insulin pump (and/or OpenAPS looping rig if applicable). They will then take the cloth to a machine which checks for explosives residue. This is the only dangerous part of your trip, if they find that you were messing with semtex, you're gonna have some 'splainin to do.
+
+The trace detector will look something similar to this:
+![saf2015_0182517_0.jpg](/saf2015_0182517_0.jpg)
+where they will place the cloth in the receptacle and the machine will check for traces of explosive material. As long as you haven't been messing with red phosphorus with Jesse Pinkman, you should come out with no issues.
 
 ## When Boarding
 
