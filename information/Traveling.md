@@ -2,7 +2,7 @@
 title: Travel Tips
 description: 
 published: false
-date: 2021-06-11T07:46:24.158Z
+date: 2021-06-11T07:47:31.039Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-11T07:07:56.985Z
@@ -54,4 +54,4 @@ TSA is going to instruct you to go into the center of the screening area after y
 
 ## When Boarding
 
-Make sure that when you board the plane, if they tell you you must check your bag due to lack of space in the overhad bins... take your ziplock bag full of supplies out and keep it with you. You don't want it going into the belly of the plane. Keep it with you at all times.
+Make sure that when you board the plane, if they tell you that you must check your bag due to lack of space in the overhead bins... take your ziplock bag full of supplies out and keep it with you. You don't want it going into the belly of the plane. Keep it with you at all times.
