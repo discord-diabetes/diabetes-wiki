@@ -2,7 +2,7 @@
 title: Traveling with Diabetes
 description: Some helpful tips for traveling with diabetes. Some of these tips came from Wilfred himself!
 published: true
-date: 2021-06-11T21:55:25.212Z
+date: 2021-06-11T21:56:34.254Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-11T17:08:06.305Z
@@ -26,7 +26,7 @@ All aboard! When traveling, make sure to pack your medications and supplies _in 
 The security line has many pitfalls you can avoid with the proper preparation. We will help out by giving a few tips that have helped us in the past.
 
 ### Give Yourself Time
-Make sure you give yourself at least 30 additional minutes to get through the security checkpoint than you usually would. For example, often it is best to arrive to an international flight 2 hours before the flight departs instead of one hour. Worst case scenario you are early for your flight and get to hang out at the airport for a bit before your flight departs. It is much better to have too much time left over than missing your flight.
+Make sure you give yourself at least double the recommended time to get through the security checkpoint than you usually would. For example, often it is best to arrive to an international flight 2 hours before the flight departs instead of one hour. Worst case scenario you are early for your flight and get to hang out at the airport for a bit before your flight departs. It is much better to have too much time left over than missing your flight due to delays at the security line.
 
 ### Medications
 As stated above, your prescription liquids do not count against your 1 quart ziploc bag of liquids limit, so keep them in a separate plastic bag. Place liquids, pills, etc. in an x-ray scan bin next to your other bag full of liquids, deodorant, hairspray/gels, etc. if you have one. Make sure your prescription medications have a prescription label with the medication name and your name on the side. This will prevent the TSA from accusing you of smuggling prescription drugs across the border.
