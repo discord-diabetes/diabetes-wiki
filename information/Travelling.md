@@ -2,7 +2,7 @@
 title: Travel Tips
 description: 
 published: false
-date: 2021-06-11T07:27:28.325Z
+date: 2021-06-11T07:33:35.068Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-11T07:07:56.985Z
@@ -28,11 +28,20 @@ Travel with Diabetes can be daunting at first. Making sure your bag is packed wi
 
 Make sure to bring enough of the medication you need to last one-and-a-half to two times the length of your travel plans. It is difficult to get replacement supplies and medications when you are traveling abroad, so it is best to have extra stuff just in case.
 
-When packing for your trip, you may be aware of the rule that all of your liquids must fit in one quart-sized ziplock bag. Fo travelers with medical conditions, you are allowed to bring another bag (or more if need be) to carry your medical liquids. They do not count towards your allotted one quart sized bag of liquids.
+When packing for your trip, you may be aware of the rule that all of your liquids must fit in one quart-sized ziplock bag. For travelers with medical conditions, you are allowed to bring another bag (or more if need be) to carry your medical liquids. They do not count towards your allotted one quart sized bag of liquids.
 
 All aboard! When traveling, make sure to pack your medications and supplies _in your carryon luggage_. It is the least likely article to get lost, and, if you have it in your checked baggage, and it gets lost... not a good start to your adventure, my friends.
 
 ![5cvv0y.jpg](/5cvv0y.jpg)
+
+## The Security Line
+
+The security line has many pitfalls you can avoid with the proper preparation. We will help out by giving a few tips that have helped us in the past.
+
+### Medications
+
+### Devices
+TSA has specific procedures for people with medical devices. You are able to bypass the milimeter wave xray scanner, as well as keep any insulin pump, CGM, or omnipods attached while walking through the x-ray machine. All you need to do is state that you are a passenger with non-removable medical devices and wish to opt for a patdown instead of going into the millimeter wave x-ray machine. If the TSA gives you any hassle, simply state that you are unable to use the xray machine due to medical reasons. They will call a supervisor and the supervisor will handle the situation. Do not pass through the scanner with an insulin pump or OpenAPS looping rig, as it could cause permanent damage to either device.
 
 ## When Boarding
 
