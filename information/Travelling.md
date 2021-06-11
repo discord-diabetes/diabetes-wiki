@@ -2,7 +2,7 @@
 title: Travel Tips
 description: 
 published: false
-date: 2021-06-11T07:33:35.068Z
+date: 2021-06-11T07:36:03.797Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-11T07:07:56.985Z
@@ -39,6 +39,9 @@ All aboard! When traveling, make sure to pack your medications and supplies _in 
 The security line has many pitfalls you can avoid with the proper preparation. We will help out by giving a few tips that have helped us in the past.
 
 ### Medications
+As stated above, your prescription liquids do not count against your 1 quart liquids limit, so keep them in a separate plastic bag. Place them in an xray scan bin next to your other bag full of liquids, deodorant, hairspray/gels, etc if you have one. Make sure your prescription medications have a prescription label with the medication name and your name on the side.
+
+![rx-insulin.png](/rx-insulin.png)
 
 ### Devices
 TSA has specific procedures for people with medical devices. You are able to bypass the milimeter wave xray scanner, as well as keep any insulin pump, CGM, or omnipods attached while walking through the x-ray machine. All you need to do is state that you are a passenger with non-removable medical devices and wish to opt for a patdown instead of going into the millimeter wave x-ray machine. If the TSA gives you any hassle, simply state that you are unable to use the xray machine due to medical reasons. They will call a supervisor and the supervisor will handle the situation. Do not pass through the scanner with an insulin pump or OpenAPS looping rig, as it could cause permanent damage to either device.
