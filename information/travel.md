@@ -2,20 +2,18 @@
 title: Traveling with Diabetes
 description: Some helpful tips for traveling with diabetes. Some of these tips came from Wilfred himself!
 published: true
-date: 2021-06-11T17:11:35.886Z
+date: 2021-06-11T17:33:37.833Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-11T17:08:06.305Z
 ---
 
 # Traveling with Diabetes
-
 ![airplane.png](/airplane.png)
 
 Travel with Diabetes can be daunting at first. Making sure your bag is packed with all of the necessary equipment and medication is only the beginning of the adventure.
 
 ## Packing your Supplies and Medications
-
 Make sure to bring enough of the medication you need to last one-and-a-half to two times the length of your travel plans. It is difficult to get replacement supplies and medications when you are traveling abroad, so it is best to have extra stuff just in case.
 
 When packing for your trip, you may be aware of the rule that all of your liquids must fit in one quart-sized ziplock bag. For travelers with medical conditions, you are allowed to bring another bag (or more if need be) to carry your medical liquids. They do not count towards your allotted one quart sized bag of liquids.
@@ -25,11 +23,10 @@ All aboard! When traveling, make sure to pack your medications and supplies _in 
 ![5cvv0y.jpg](/5cvv0y.jpg)
 
 ## The Security Line
-
 The security line has many pitfalls you can avoid with the proper preparation. We will help out by giving a few tips that have helped us in the past.
 
 ### Medications
-As stated above, your prescription liquids do not count against your 1 quart liquids limit, so keep them in a separate plastic bag. Place liquids, pills, etc. in an x-ray scan bin next to your other bag full of liquids, deodorant, hairspray/gels, etc. if you have one. Make sure your prescription medications have a prescription label with the medication name and your name on the side. This will prevent the TSA from accusing you of smuggling prescription drugs across the border.
+As stated above, your prescription liquids do not count against your 1 quart ziploc bag of liquids limit, so keep them in a separate plastic bag. Place liquids, pills, etc. in an x-ray scan bin next to your other bag full of liquids, deodorant, hairspray/gels, etc. if you have one. Make sure your prescription medications have a prescription label with the medication name and your name on the side. This will prevent the TSA from accusing you of smuggling prescription drugs across the border.
 
 ![rx-insulin.png](/rx-insulin.png)
 
@@ -47,7 +44,16 @@ The trace detector will look something similar to this:
 where they will place the cloth in the receptacle and the machine will check for traces of explosive material. As long as you haven't been messing with red phosphorus with Jesse Pinkman, you should come out with no issues.
 
 ## When Boarding
-
-Make sure that when you board the plane, if they tell you that you must check your bag due to lack of space in the overhead bins... take your ziplock bag full of supplies out and keep it with you. You don't want it going into the belly of the plane. Keep it with you at all times.
+Make sure that when you board the plane, if they tell you that you must check your bag due to lack of space in the overhead bins... take your ziploc bag full of supplies and medications out and keep it with you. You don't want it going into the belly of the plane. Keep it with you at all times.
 
 ## On the Plane
+Some flights can take nearly all day to complete, especially on the Airbus A380 or Boeing 747 planes that have massive fuel tanks and are meant for long haul flights. You may need to dose or take medication while on the plane, which is another reason you should have those supplies in your carryon bag with you at all times. Don't be afraid to shoot up insulin on the plane, especially if you are enjoying the *delicious* airline food.~1~
+
+`1. Airline food is not usually delicious`
+
+### For Insulin Pump Users
+If you are using an insulin pump, please be aware that the pressure changes on the plane while ascending and descending from cruising altitude can create bubbles and/or cause more or less insulin than normal to be delivered during ascent and descent. If you use a pump with an insulin cartridge, the best thing to do while ascending is to suspend the pump until you reach the cruising altitude and the captain turns off the fasten seatbelts light. At this point, you can remove the cartridge to check for air bubbles, prime them out, and resume insulin delivery. When descending, you should disconnect the tubing and suspend. The descent can cause insulin in the pump and/or tubing to deliver into your body spontaneously, which leads to hypos when picking up your baggage (not a fun experience, especially if you reach your destination and none of the cinnabons are open.)
+
+
+
+
