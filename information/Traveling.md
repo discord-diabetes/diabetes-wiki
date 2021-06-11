@@ -2,7 +2,7 @@
 title: Travel Tips
 description: How to Travel with Diabetes
 published: false
-date: 2021-06-11T08:04:11.536Z
+date: 2021-06-11T08:04:48.606Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-11T07:07:56.985Z
@@ -50,7 +50,7 @@ TSA has specific procedures for people with medical devices. You are able to byp
 It may be tempting to run your insulin pump through the x-ray machine to save time. Don't do this. Even if it makes it through the process alive, you may still be taken to a secondary inspection room to answer questions about the strange eletronic device in your bag that contains liquid. If this happens, they aren't going to give you your stuff back until you satisfy their questioning procedure, which could take... valuable time that you will be disconnected from your infusion device.
 
 ### The Explosives Swab
-TSA is going to instruct you to go into the center of the screening area after your patdown. A TSA Agent will take a small cloth and wipe down your insulin pump (and/or OpenAPS looping rig if applicable). They will then take the cloth to a machine which checks for explosives residue. This is the only dangerous part of your trip, if they find that you were messing with semtex, you're gonna have some 'splainin to do.
+TSA is going to instruct you to go into the center of the screening area after your patdown. A TSA Agent will take a small cloth and wipe down your insulin pump (and/or OpenAPS looping rig if applicable). They will then take the cloth to a machine which checks for explosives residue. This is the only dangerous part of your trip, if they find that you were playing around with semtex, you're gonna have some 'splainin to do.
 
 The trace detector will look something similar to this:
 ![saf2015_0182517_0.jpg](/saf2015_0182517_0.jpg)
