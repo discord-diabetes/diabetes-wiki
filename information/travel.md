@@ -2,23 +2,13 @@
 title: Traveling with Diabetes
 description: Some helpful tips for traveling with diabetes. Some of these tips came from Wilfred himself!
 published: true
-date: 2021-06-11T17:08:06.305Z
+date: 2021-06-11T17:11:35.886Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-11T17:08:06.305Z
 ---
 
 # Traveling with Diabetes
-
-
-<!--
-~~1. if you're bringing pens or pills, make sure your rx label is on the box
-2. don't take your pump through the mmwave or send it thru the xray machine
-3. ask for a patdown
-4. describe the explosives screening procedure~~
-5. indicate that pumps will be affected by airplane pressure
-6. Don't ever disconnect your pump, as you may be taken to secondary inspection
--->
 
 ![airplane.png](/airplane.png)
 
@@ -59,3 +49,5 @@ where they will place the cloth in the receptacle and the machine will check for
 ## When Boarding
 
 Make sure that when you board the plane, if they tell you that you must check your bag due to lack of space in the overhead bins... take your ziplock bag full of supplies out and keep it with you. You don't want it going into the belly of the plane. Keep it with you at all times.
+
+## On the Plane
