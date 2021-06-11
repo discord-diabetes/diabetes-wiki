@@ -2,8 +2,8 @@
 title: Travel Tips
 description: How to Travel with Diabetes
 published: true
-date: 2021-06-11T17:05:08.041Z
-tags: travel
+date: 2021-06-11T17:05:49.525Z
+tags: 
 editor: markdown
 dateCreated: 2021-06-11T07:07:56.985Z
 ---
