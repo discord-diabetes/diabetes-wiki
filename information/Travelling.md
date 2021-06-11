@@ -2,7 +2,7 @@
 title: Travel Tips
 description: 
 published: false
-date: 2021-06-11T07:36:03.797Z
+date: 2021-06-11T07:39:10.246Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-11T07:07:56.985Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-11T07:07:56.985Z
 
 
 <!--
-1. if you're bringing pens or pills, make sure your rx label is on the box
+~~1. if you're bringing pens or pills, make sure your rx label is on the box
 2. don't take your pump through the mmwave or send it thru the xray machine
-3. ask for a patdown
+3. ask for a patdown~~
 4. describe the explosives screening procedure
 5. indicate that pumps will be affected by airplane pressure
 6. Don't ever disconnect your pump, as you may be taken to secondary inspection
@@ -45,6 +45,9 @@ As stated above, your prescription liquids do not count against your 1 quart liq
 
 ### Devices
 TSA has specific procedures for people with medical devices. You are able to bypass the milimeter wave xray scanner, as well as keep any insulin pump, CGM, or omnipods attached while walking through the x-ray machine. All you need to do is state that you are a passenger with non-removable medical devices and wish to opt for a patdown instead of going into the millimeter wave x-ray machine. If the TSA gives you any hassle, simply state that you are unable to use the xray machine due to medical reasons. They will call a supervisor and the supervisor will handle the situation. Do not pass through the scanner with an insulin pump or OpenAPS looping rig, as it could cause permanent damage to either device.
+
+### The Explosives Swab
+TSA is going to instruct you to go into the center of the screening area after your patdown. A TSA Agent will take a small cloth and wipe down your insulin pump (and/or OpenAPS looping rig if applicable). They will then take the cloth to a machine which checks for explosives residue. This is the only dangerous part of your trip, if they find that you were messing with semtex, you're gonna have some 'splainin to do.
 
 ## When Boarding
 
