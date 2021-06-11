@@ -2,7 +2,7 @@
 title: Traveling with Diabetes
 description: Some helpful tips for traveling with diabetes. Some of these tips came from Wilfred himself!
 published: true
-date: 2021-06-11T17:34:33.254Z
+date: 2021-06-11T17:35:15.133Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-11T17:08:06.305Z
@@ -16,7 +16,7 @@ Travel with Diabetes can be daunting at first. Making sure your bag is packed wi
 ## Packing your Supplies and Medications
 Make sure to bring enough of the medication and supplies you need to last one-and-a-half to two times the length of your travel plans. It is difficult to get replacement supplies and medications when you are traveling abroad, so it is best to have extra stuff just in case.
 
-When packing for your trip, you may be aware of the rule that all of your liquids must fit in one quart-sized ziplock bag. For travelers with medical conditions, you are allowed to bring another bag (or more if need be) to carry your medical liquids. They do not count towards your allotted one quart sized bag of liquids.
+When packing for your trip, you may be aware of the rule that all of your liquids must fit in one quart-sized ziploc bag. For travelers with medical conditions, you are allowed to bring another bag (or more if need be) to carry your medical liquids. They do not count towards your allotted one quart sized bag of liquids.
 
 All aboard! When traveling, make sure to pack your medications and supplies _in your carryon luggage_. It is the least likely article to get lost, and, if you have it in your checked baggage, and it gets lost... not a good start to your adventure, my friends.
 
