@@ -2,7 +2,7 @@
 title: Travel Tips
 description: 
 published: false
-date: 2021-06-11T07:39:10.246Z
+date: 2021-06-11T07:41:31.665Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-11T07:07:56.985Z
@@ -44,7 +44,7 @@ As stated above, your prescription liquids do not count against your 1 quart liq
 ![rx-insulin.png](/rx-insulin.png)
 
 ### Devices
-TSA has specific procedures for people with medical devices. You are able to bypass the milimeter wave xray scanner, as well as keep any insulin pump, CGM, or omnipods attached while walking through the x-ray machine. All you need to do is state that you are a passenger with non-removable medical devices and wish to opt for a patdown instead of going into the millimeter wave x-ray machine. If the TSA gives you any hassle, simply state that you are unable to use the xray machine due to medical reasons. They will call a supervisor and the supervisor will handle the situation. Do not pass through the scanner with an insulin pump or OpenAPS looping rig, as it could cause permanent damage to either device.
+TSA has specific procedures for people with medical devices. You are able to bypass the milimeter wave xray scanner, as well as keep any insulin pump, CGM, or omnipods attached while walking through the metal detector. All you need to do is state that you are a passenger with non-removable medical devices and wish to opt for a patdown instead of going into the millimeter wave x-ray machine. If the TSA gives you any hassle, simply state that you are unable to use the xray machine due to medical reasons. They will call a supervisor and the supervisor will handle the situation. Do not pass through the scanner with an insulin pump or OpenAPS looping rig, as it could cause permanent damage to either device.
 
 ### The Explosives Swab
 TSA is going to instruct you to go into the center of the screening area after your patdown. A TSA Agent will take a small cloth and wipe down your insulin pump (and/or OpenAPS looping rig if applicable). They will then take the cloth to a machine which checks for explosives residue. This is the only dangerous part of your trip, if they find that you were messing with semtex, you're gonna have some 'splainin to do.
