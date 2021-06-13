@@ -16,7 +16,7 @@ Travel with Diabetes can be daunting at first. Making sure your bag is packed wi
 ## Packing your Supplies and Medications
 Make sure to bring enough of the medication and supplies you need to last one-and-a-half to two times the length of your travel plans. It is difficult to get replacement supplies and medications when you are traveling abroad, so it is best to have extra stuff just in case.
 
-When packing for your trip, you may be aware of the rule that all of your liquids must fit in one quart-sized ziploc bag. For travelers with medical conditions, you are allowed to bring another bag (or more if need be) to carry your medical liquids. They do not count towards your allotted one quart sized bag of liquids.
+When packing for your trip, you may be aware of the rule that all of your liquids must fit in one liter-sized (one quart) ziploc bag. For travelers with medical conditions, you are allowed to bring another bag (or more if need be) to carry your medical liquids. They do not count towards your allotted one quart sized bag of liquids.
 
 All aboard! When traveling, make sure to pack your medications and supplies _in your carryon luggage_. It is the least likely article to get lost, and, if you have it in your checked baggage, and it gets lost... not a good start to your adventure, my friends.
 
@@ -29,7 +29,7 @@ The security line has many pitfalls you can avoid with the proper preparation. W
 Make sure you give yourself at least double the recommended time to get through the security checkpoint than you usually would. For example, often it is best to arrive to an international flight 2 hours before the flight departs instead of one hour. Worst case scenario you are early for your flight and get to hang out at the airport for a bit before your flight departs. It is much better to have too much time left over than missing your flight due to delays at the security line.
 
 ### Medications
-As stated above, your prescription liquids do not count against your 1 quart ziploc bag of liquids limit, so keep them in a separate plastic bag. Place liquids, pills, etc. in an x-ray scan bin next to your other bag full of liquids, deodorant, hairspray/gels, etc. if you have one. Make sure your prescription medications have a prescription label with the medication name and your name on the side. This will prevent the TSA from accusing you of smuggling prescription drugs across the border.
+As stated above, your prescription liquids do not count against your 1 liter (1 quart) ziploc bag of liquids limit, so keep them in a separate plastic bag. Place liquids, pills, etc. in an x-ray scan bin next to your other bag full of liquids, deodorant, hairspray/gels, etc. if you have one. Make sure your prescription medications have a prescription label with the medication name and your name on the side. This will prevent the TSA from accusing you of smuggling prescription drugs across the border.
 
 ![rx-insulin.png](/rx-insulin.png)
 
