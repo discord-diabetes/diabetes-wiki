@@ -1,8 +1,8 @@
 ---
 title: Traveling with Diabetes
-description: Some helpful tips for traveling with diabetes. Some of these tips came from Wilfred himself!
+description: Some helpful tips for traveling with diabetes. Some of these tips came from Wilford himself!
 published: true
-date: 2021-06-11T22:00:51.321Z
+date: 2021-12-27T23:49:25.690Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-11T17:08:06.305Z
