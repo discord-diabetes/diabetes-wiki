@@ -2,7 +2,7 @@
 title: Pump Comparison (text)
 description: 
 published: true
-date: 2021-05-08T23:56:48.603Z
+date: 2021-12-28T00:00:37.904Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-08T23:51:08.288Z
@@ -28,4 +28,4 @@ dateCreated: 2021-05-08T23:51:08.288Z
 [^ressize]: 100u per mL concentration insulin
 [^ciq]: CIQ approved in the US and Canada as of Jan. 2021, and is rolling out globally. Other Tandem pumps come with Basal IQ (BIQ). Tandem plans to integrate with Dexcom G7 and Libre 3 CGM's.
 [^waterresistance]: IPX8 is waterproof, IPX7 is water-resistant
-[^780g]: Medtronic 780G received CE-mark Approval in Europe in June 2020 and limited release in Fall 2020. Pending FDA approval in the US with expected Fall 2021 release.
+[^780g]: Medtronic 780G received CE-mark Approval in Europe in June 2020 and limited release in Fall 2020. The MiniMed 780G system is now available in 30 countries across Europe, the Middle East and Africa, and is currently being reviewed by the Food and Drug Administration (FDA) for approval in the U.S.
